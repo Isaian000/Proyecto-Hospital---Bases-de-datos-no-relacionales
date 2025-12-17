@@ -1,0 +1,6 @@
+treatment_id,patient_id,doctor_id,diagnosis,medicine_id,route,frequency
+T001,P001,M001,Hipertensión,MED004,oral,1 al día
+T002,P002,M002,Diabetes tipo 2,MED005,oral,2 al día
+T003,P003,M003,Migraña,MED002,oral,cada 8 horas
+T004,P004,M002,Fiebre,MED001,oral,cada 6 horas
+T005,P005,M004,Dolor crónico,MED002,oral,cada 12 horas

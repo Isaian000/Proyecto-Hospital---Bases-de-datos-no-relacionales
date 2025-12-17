@@ -1,0 +1,6 @@
+Medicamento_ID,Nombre,Principio_Activo,Dosis,Forma_Farmaceutica,Presentacion,Stock,Fabricante,Fecha_Vencimiento
+1,Paracetamol,Acetaminofén,"500 mg","Tableta","Caja x 20",187,"Genérico","2027-06-30"
+2,Ibuprofeno,Ibuprofeno,"400 mg","Tableta","Caja x 30",92,"Advil","2026-11-15"
+3,Amoxicilina,Amoxicilina,"500 mg","Cápsula","Frasco x 21",45,"Pfizer","2026-03-20"
+4,Omeprazol,Omeprazol,"20 mg","Cápsula","Caja x 28",213,"AstraZeneca","2027-09-10"
+5,Losartán,Losartán potásico,"50 mg","Tableta","Caja x 30",68,"Genérico","2026-12-01"

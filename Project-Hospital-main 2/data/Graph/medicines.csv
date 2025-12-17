@@ -1,0 +1,6 @@
+medicine_id,name,dose_mg,interaction_group
+MED001,Paracetamol,500,A
+MED002,Ibuprofeno,400,A
+MED003,Warfarina,5,B
+MED004,Aspirina,100,B
+MED005,Metformina,850,C

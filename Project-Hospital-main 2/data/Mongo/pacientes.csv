@@ -1,0 +1,16 @@
+Paciente_ID,Nombre,Apellido,Fecha_de_Nacimiento,Domicilio_Ciudad,Domicilio_Calle,Domicilio_Numero,Domicilio_CP,Telefono,Alergias,Genero,Ocupacion,Datos_emergencia_Nombre,Datos_emergencia_Parentesco,Datos_emergencia_Celular
+P001,Carlos,Hernández,1990-05-12,Ciudad de México,"Av. Reforma",456,06500,5512345678,"[]",Masculino,Ingeniero,"Laura Hernández","Esposa",5587654321
+P002,María,López,1987-11-23,Guadalajara,"Calle Hidalgo",789,44100,3312345678,"['Penicilina','Mariscos']",Femenino,Contadora,"José López","Padre",3334567890
+P003,José,Martínez,2001-03-18,Monterrey,"Blvd. Constitución",123,64000,8112345678,"[]",Masculino,Estudiante,"Ana Martínez","Madre",8187654321
+P004,Ana,García,1995-08-30,Ciudad de México,"Insurgentes Sur",2021,03100,5543210987,"['Aspirina']",Femenino,Diseñadora,"Luis García","Hermano",5512348765
+P005,Luis,Rodríguez,1982-01-15,Puebla,"5 de Mayo",88,72000,2223456789,"['Polen']",Masculino,Arquitecto,"Sofía Rodríguez","Hermana",2229876543
+P006,Sofía,Torres,1998-09-07,Querétaro,"Av. Universidad",555,76000,4421234567,"[]",Femenino,Enfermera,"Miguel Torres","Padre",4428765432
+P007,Miguel,Sánchez,1975-12-20,Tijuana,"Reforma",333,22000,6641234567,"['Lactosa']",Masculino,Mecánico,"Laura Sánchez","Esposa",6649876543
+P008,Laura,Ramírez,1993-06-25,Mérida,"Paseo Montejo",100,97000,9991234567,"['Penicilina']",Femenino,Maestra,"Jorge Ramírez","Hermano",9998765432
+P009,Jorge,Flores,1988-04-10,León,"Blvd. Adolfo López Mateos",777,37100,4771234567,"[]",Masculino,Vendedor,"Elena Flores","Madre",4779876543
+P010,Elena,Morales,1996-10-05,Chihuahua,"Av. Juárez",1500,31000,6141234567,"['AINEs']",Femenino,Psicóloga,"Ricardo Morales","Padre",6148765432
+P011,Ricardo,Vargas,1980-07-19,Culiacán,"Blvd. Ejército Mexicano",200,80000,6671234567,"[]",Masculino,Abogado,"Patricia Vargas","Hermana",6679876543
+P012,Patricia,Cruz,1991-02-28,Veracruz,"Av. 20 de Noviembre",88,91700,2291234567,"['Mariscos']",Femenino,Nutrióloga,"Diego Cruz","Esposo",2298765432
+P013,Diego,Navarro,1985-09-11,Toluca,"Paseo Tollocan",500,50090,7221234567,"[]",Masculino,Programador,"Lucía Navarro","Esposa",7229876543
+P014,Lucía,Herrera,1999-12-03,Saltillo,"Blvd. Venustiano Carranza",999,25000,8441234567,"['Penicilina']",Femenino,Estudiante,"Fernando Herrera","Padre",8448765432
+P015,Fernando,Castillo,1978-08-17,Morelia,"Av. Madero",1200,58000,4431234567,"[]",Masculino,Médico,"María Castillo","Hija",4439876543
